@@ -1,6 +1,6 @@
 # UAVM2025 Accepted Papers :helicopter:
 
- ### Topic 1: UAV-based Geo-localization
+ ### Topic 1: Aerial Geo-localization
 1. **Matching Street View and Satellite Images via Drone Imagery and Semantic Descriptions** 
 
    (Public) https://gitee.com/streamer-AP/street2-drone
@@ -27,7 +27,7 @@
    
 9. **Efficient Perception for Indoor Fire Rescue UAVs: A Unified Multimodal Semantic Fusion Framework**
     
-### Topic 2: UAV-based Tracking
+### Topic 2: Aerial Tracking
 1. **Towards Event-Driven, End-to-End UAV Tracking using Deep Reinforcement Learning**
   
    (Public) https://github.com/AlaSouissi5/DRL-Drone-Tracking
@@ -38,6 +38,6 @@
   
 3. **UAV-based Wilderness Human Detection: An RGB-T Benchmark Dataset and Cross-Modality Baseline**
    
-### Topic 3: UAV-based Reconstruction
+### Topic 3: Aerial Reconstruction
 
 1. **FlyGS: Online 3DGS Model Construction Using a MAVLink-Connected Drone**
